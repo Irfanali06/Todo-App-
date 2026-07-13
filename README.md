@@ -1,2 +1,2 @@
-# Todo-App-
-A simple Todo App built with HTML, CSS, and JavaScript.
+# Todo-App
+A simple Todo App built with HTML, CSS, and JavaScript. Author-Irfan Ali
